@@ -48,4 +48,8 @@ div {color:#fff; background:yellowgreen; padding:20px; font-size:14px;}
 section {border:solid 2px skyblue; background:lightcoral; padding:20px; margin-top:20px;}
 .dj {background:palevioletred; height:300px; width:100%; border:solid 2px cadetblue; margin-top:20px; box-sizing: border-boxa;}
 
+<<<<<<< HEAD
 .main02 {}
+=======
+.main02 {background-color: aqua; height:300px; margin-top: 40px; border:saddlebrown 2px solid;}
+>>>>>>> dj
